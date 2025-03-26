@@ -1,0 +1,3 @@
+Hi Welcome to Azure Devops 
+
+This is a demo project for git commands
